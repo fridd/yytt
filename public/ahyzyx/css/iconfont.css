@@ -1,0 +1,33 @@
+
+@font-face {font-family: "iconfont";
+  src: url("iconfont.eot-t=1470382400"/*tpa=http://www.ahyzyx.com/yishujie/TICKET/resources/shop/18th/fonts/iconfont/iconfont.eot-t=1470382400*//*tpa=http://www.artsbird.com/TICKET/resources/shop/18th/fonts/iconfont/iconfont.eot?t=1470382400*/); /* IE9*/
+  src: url("iconfont.eot-t=1470382400#iefix"/*tpa=http://www.ahyzyx.com/yishujie/TICKET/resources/shop/18th/fonts/iconfont/iconfont.eot-t=1470382400#iefix*//*tpa=http://www.artsbird.com/TICKET/resources/shop/18th/fonts/iconfont/iconfont.eot?t=1470382400#iefix*/) format('embedded-opentype'), /* IE6-IE8 */
+  url("iconfont.woff-t=1470382400"/*tpa=http://www.ahyzyx.com/yishujie/TICKET/resources/shop/18th/fonts/iconfont/iconfont.woff-t=1470382400*//*tpa=http://www.artsbird.com/TICKET/resources/shop/18th/fonts/iconfont/iconfont.woff?t=1470382400*/) format('woff'), /* chrome, firefox */
+  url("iconfont.ttf-t=1470382400"/*tpa=http://www.ahyzyx.com/yishujie/TICKET/resources/shop/18th/fonts/iconfont/iconfont.ttf-t=1470382400*//*tpa=http://www.artsbird.com/TICKET/resources/shop/18th/fonts/iconfont/iconfont.ttf?t=1470382400*/) format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url("iconfont.svg-t=1470382400#iconfont"/*tpa=http://www.ahyzyx.com/yishujie/TICKET/resources/shop/18th/fonts/iconfont/iconfont.svg-t=1470382400#iconfont*//*tpa=http://www.artsbird.com/TICKET/resources/shop/18th/fonts/iconfont/iconfont.svg?t=1470382400#iconfont*/) format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-datu:before { content: "\e602"; }
+.icon-liebiao:before { content: "\e603"; }
+.icon-icon47:before { content: "\e608"; }
+.icon-home:before { content: "\e609"; }
+.icon-time:before { content: "\e60a"; }
+.icon-arrow1:before { content: "\e604"; }
+.icon-question:before { content: "\e60b"; }
+.icon-gerenzhongxin:before { content: "\e60c"; }
+.icon-wendang:before { content: "\e60d"; }
+.icon-delete:before { content: "\e605"; }
+.icon-wancheng:before { content: "\e607"; }
+.icon-c_icon0:before { content: "\e60e"; }
+.icon-zhankai:before { content: "\e600"; }
+.icon-babykunao:before { content: "\e60f"; }
+.icon-shouqi:before { content: "\e601"; }
+.icon-zhuyi:before { content: "\e606"; }

@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+.DS_Store
+yzyxgroup.sql
+webpack.mix.js
+phpunit.xml
+tests
+.env
+/public/.well-known/pki-validation/fileauth.txt
